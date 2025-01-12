@@ -1,0 +1,14 @@
+{
+  "name": "Calculator Tests",
+  "type": "Maven",
+  "environment": "Windows 10",
+  "url": "https://catchylabs-webclient.testinium.com/",
+  "buildOrder": 1,
+  "buildName": "My Build",
+  "parameters": {
+    "Browser": "Chrome",
+    "Browser Version": "131.0.6778.265",
+    "Environment": "QA-QE",
+    "Test Framework": "Cucumber"
+  }
+}
